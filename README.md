@@ -1,8 +1,8 @@
 # Pump-it-Up-Data-Mining-the-Water-Table
 
-Link to the Colab Notebook - https://colab.research.google.com/drive/1gobxLmJgIQpioZV3ktVEO40HeGJEPoXf?usp=sharing
-Score - 0.8187
-Rank - 1348(2021-09-17 13:45:43 UTC)
+<p>Link to the Colab Notebook - https://colab.research.google.com/drive/1gobxLmJgIQpioZV3ktVEO40HeGJEPoXf?usp=sharing</p>
+<p>Score - 0.8187</p>
+<p>Rank - 1348(2021-09-17 13:45:43 UTC)</p>
 
 <p><span style="color: #0e101a;"><strong>Preprocessing & Feature engineering techniques</strong></span></p>
 <ul>
