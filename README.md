@@ -1,5 +1,5 @@
 # Pump-it-Up-Data-Mining-the-Water-Table
-<p><span style="color: #0e101a;"><strong>Preprocessing Feature engineering techniques</strong></span></p>
+<p><span style="color: #0e101a;"><strong>Preprocessing & Feature engineering techniques</strong></span></p>
 <ul>
 <li><span style="color: #0e101a;">Identify and handle missing NaN values.</span></li>
 <ul>
