@@ -4,6 +4,9 @@
 <p>Score - 0.8187</p>
 <p>Rank - 1348(2021-09-17 13:45:43 UTC)</p>
 
+![alt text](https://github.com/thisaltennakoon/Pump-it-Up-Data-Mining-the-Water-Table/blob/main/moracse_170612T_final_rank.png?raw=true)
+
+
 <p><span style="color: #0e101a;"><strong>Preprocessing & Feature engineering techniques</strong></span></p>
 <ul>
 <li><span style="color: #0e101a;">Identify and handle missing NaN values.</span></li>
